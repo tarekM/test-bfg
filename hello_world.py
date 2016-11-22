@@ -11,3 +11,5 @@ def fib(n):
         return fib(n-1) + fib(n-2)
 
 
+def subtract(a,b):
+    print "{} minus {} is {}".format(a,b,a-b) 

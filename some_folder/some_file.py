@@ -11,3 +11,6 @@ def do_all():
     info()
     nonsense(1,2)
     some_func_that_does_nothing(3,2,1)
+
+def what_happened():
+    print "heffhdsfhk3"
